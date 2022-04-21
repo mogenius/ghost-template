@@ -1,1 +1,3 @@
 FROM ghost:4.41.3
+
+USER 1000
